@@ -1,2 +1,2 @@
 # SeleniumNUnit
-Example Selenium NUnit to run with Jenkins
+Selenium NUnit to run with Jenkins, udemy example
